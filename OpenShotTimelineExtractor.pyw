@@ -3,7 +3,7 @@
 """
 Created on Sun Jan 19 17:34:25 2025
 
-@author: https://github.com/b4too
+@author: https://github.com/methatronc
 """
 
 import datetime
